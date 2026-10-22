@@ -43,6 +43,9 @@ A los 15 años se elige carrera con poca información: lo que se imagina de una 
    o abre la carpeta en Android Studio y pulsa *Run*. No necesita Firebase ni claves.
 3. En la app, pulsa **Empezar el test** y responde las 10 preguntas. Las pestañas **Carreras** y **Futuro** se pueden explorar en cualquier momento.
 
+## Licencias de terceros
+La tipografía Jost se distribuye bajo la [SIL Open Font License 1.1](licencias/Jost-OFL.txt).
+
 ## Contacto
 **Ricardo Augusto Porras Díaz** — Desarrollador de software y abogado especialista en derecho administrativo
 - Correo: [ricardoprs76@gmail.com](mailto:ricardoprs76@gmail.com)
